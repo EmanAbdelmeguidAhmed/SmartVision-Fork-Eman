@@ -45,7 +45,8 @@ Thank you for contributing to our project which will help us improve it. You can
 3.	Clone your fork: 
 
 Clone the Repository: Clone your forked repository to your local machine. In the terminal or Git Bash, 
-run: git clone https://github.com/your-username/repo-name.git Create new branch:
+run: 
+'git clone https://github.com/your-username/repo-name.git Create new branch'
 
 *Replace your-username with your GitHub username and repo-name with the name of the repository.
 
