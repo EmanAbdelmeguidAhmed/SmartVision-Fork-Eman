@@ -26,7 +26,7 @@ Thank you for contributing to our project which will help us improve it. You can
 
 4. Submit the issue: click on "submit new issue" button.
 
-- For requesting features: 
+- ### For requesting features: 
 
 1.	Check the existing issues: go to issues tab (link found in links section), if there is any request for feature, please add commit, if not, please follow the below:
 
@@ -34,9 +34,9 @@ Thank you for contributing to our project which will help us improve it. You can
 
 3.	Fill out the issue: add the feature info with clear details. And please make sure to add feature request in the title of the issue.
 
-- For submitting pull requests: 
+- ### For submitting pull requests: 
 
-- Fork the Repository:
+- ### Fork the Repository:
 
 1. Go to our repository (https://github.com/Robjects-ML/SmartVision).
 
@@ -49,13 +49,13 @@ run: git clone https://github.com/your-username/repo-name.git Create new branch:
 
 *Replace your-username with your GitHub username and repo-name with the name of the repository.
 
--	Create new branch:
+-	### Create new branch:
 
 You can do that by running: git checkout -b your-branch-name 
 
 *Replace your-branch-name with a descriptive name for your branch.
 
-- Start changes:
+- ### Start changes:
 
 1.	Edit the Files: Make the necessary changes to the required files.
 
@@ -69,7 +69,7 @@ git commit -m "Describe your changes".
 
 *Replace your-branch-name with the given name for your branch. 
 
--	Create your Pull Request:
+-	### Create your Pull Request:
 
 1. Go to your forked repository on GitHub.
 
