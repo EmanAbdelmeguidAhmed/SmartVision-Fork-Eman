@@ -67,8 +67,9 @@ You can do that by running:
    
 `git add`
 
-3.	 Commit the Changes: Commit your changes with a descriptive message: run this code: 
-git commit -m "Describe your changes". 
+3.	 Commit the Changes: Commit your changes with a descriptive message: run this code:
+
+`git commit -m "Describe your changes" `
 
 4.	Push the changes to GitHub: by running this code in the Terminal or Git Bash:
 
