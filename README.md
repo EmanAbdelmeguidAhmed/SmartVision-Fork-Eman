@@ -1,4 +1,3 @@
-![SmartVision](./images/beautiful-overview-shot-1.JPG)
 
 # Welcome to Smart Vision Project.
 
