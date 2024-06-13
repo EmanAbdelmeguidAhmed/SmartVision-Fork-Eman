@@ -46,13 +46,16 @@ Thank you for contributing to our project which will help us improve it. You can
 
 Clone the Repository: Clone your forked repository to your local machine. In the terminal or Git Bash, 
 run: 
+
 `git clone https://github.com/your-username/repo-name.git Create new branch`
 
 *Replace your-username with your GitHub username and repo-name with the name of the repository.
 
 -	### Create new branch:
 
-You can do that by running: git checkout -b your-branch-name 
+You can do that by running: 
+
+`git checkout -b your-branch-name` 
 
 *Replace your-branch-name with a descriptive name for your branch.
 
@@ -60,13 +63,16 @@ You can do that by running: git checkout -b your-branch-name
 
 1.	Edit the Files: Make the necessary changes to the required files.
 
-2.	Stage the Changes: Add the changes to the staging area: by running this code on the terminal or Git Bash: 
-git add.
+2.	Stage the Changes: Add the changes to the staging area: by running this code on the terminal or Git Bash:
+   
+`git add`
 
 3.	 Commit the Changes: Commit your changes with a descriptive message: run this code: 
 git commit -m "Describe your changes". 
 
-4.	Push the changes to GitHub: by running this code in the Terminal or Git Bash: git push origin your-branch-name 
+4.	Push the changes to GitHub: by running this code in the Terminal or Git Bash:
+
+`git push origin your-branch-name `
 
 *Replace your-branch-name with the given name for your branch. 
 
