@@ -1,4 +1,4 @@
-Welcome to Smart Vision Project.
+'Welcome to Smart Vision Project'.
 
 Introduction:
 
@@ -90,14 +90,10 @@ Please check this link: (https://github.com/Robjects-ML/SmartVision/blob/main/LI
 
 Acknowledgements: 
 
-SmartVision project is built from team members “Eman, Alaa and John” guided by “Mike”. 
+SmartVision project is built from team members “Eman" guided by “Mike”. 
 
 GitHub accounts for team members and leader:
 
  Eman:EmanAbdelmeguidAhmed (team member)
- 
-John: Geomatic13 (team member)
-
-Alaa: .... <!-- need to add Alaa's GitHub account--> (team member)
 
 Mike: garzarobm (Leader)
