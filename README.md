@@ -1,6 +1,6 @@
 #Welcome to Smart Vision Project.
 
-Introduction:
+##Introduction:
 
 This is a computer vision project that uses a Raspberry Pi and a camera to detect objects in real-time. The project is built using Python and OpenCV. The project is open-source and you can find the code on this GitHub page as more features get added. We tried to build this project differently to be more useful as much as we can. We are open for any suggestion or questions, so please don't hesitate to contact us anytime.
 
